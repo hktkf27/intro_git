@@ -1,3 +1,8 @@
 gitの練習をします。
 基本的なワークフローを学びます。
 変更店を加えます。
+.git add
+.git commit
+.git rm
+.git status
+.git diff
